@@ -8,7 +8,7 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaBootstrap,
-} from "react-icons/fa/index.js";
+} from "react-icons/fa";
 
 import {
   SiJavascript,
