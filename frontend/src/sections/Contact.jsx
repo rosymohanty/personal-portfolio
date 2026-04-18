@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/Button";
 import { useState } from "react";
-import axios from "../services/Axios";
+import axios from "../services/axios";
 const contactInfo = [
   {
     icon: Mail,
